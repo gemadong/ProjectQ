@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "731589021464",
+    "project_id": "projectq-56338389",
+    "storage_bucket": "projectq-56338389.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:731589021464:android:69adfb68240a3edb69186d",
+        "android_client_info": {
+          "package_name": "com.gemadong.projectq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "731589021464-1fnkntgithrc274e8bvb1ggdsbel61lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfS8Ug3ZUFMlhtqHn-cqi0QXQXaiGWiyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "731589021464-1fnkntgithrc274e8bvb1ggdsbel61lp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "731589021464-ig7n3n2bntvq9gd66pkts17rit3o1omj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.gemadong.projectq"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,45 @@
+<dependencies>
+  <packages>
+    <package>androidx.lifecycle:lifecycle-common-java8:2.4.1</package>
+    <package>androidx.lifecycle:lifecycle-process:2.4.1</package>
+    <package>com.google.android.gms:play-services-ads:21.0.0</package>
+    <package>com.google.android.gms:play-services-auth:16+</package>
+    <package>com.google.android.gms:play-services-base:18.1.0</package>
+    <package>com.google.firebase:firebase-analytics:21.1.0</package>
+    <package>com.google.firebase:firebase-analytics-unity:9.4.0</package>
+    <package>com.google.firebase:firebase-app-unity:9.4.0</package>
+    <package>com.google.firebase:firebase-common:20.1.1</package>
+    <package>com.google.firebase:firebase-iid:21.1.0</package>
+    <package>com.google.firebase:firebase-messaging:23.0.7</package>
+    <package>com.google.firebase:firebase-messaging-unity:9.4.0</package>
+    <package>com.google.games:gpgs-plugin-support:0.10.14</package>
+    <package>com.google.signin:google-signin-support:1.0.4</package>
+  </packages>
+  <files>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/9.4.0/firebase-analytics-unity-9.4.0.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-analytics-unity/9.4.0/firebase-analytics-unity-9.4.0.pom</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/9.4.0/firebase-app-unity-9.4.0.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-app-unity/9.4.0/firebase-app-unity-9.4.0.pom</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-messaging-unity/9.4.0/firebase-messaging-unity-9.4.0.aar</file>
+    <file>Assets/GeneratedLocalRepo/Firebase/m2repository/com/google/firebase/firebase-messaging-unity/9.4.0/firebase-messaging-unity-9.4.0.pom</file>
+    <file>Assets/GeneratedLocalRepo/GooglePlayGames/Editor/m2repository/com/google/games/gpgs-plugin-support/0.10.14/gpgs-plugin-support-0.10.14.aar</file>
+    <file>Assets/GeneratedLocalRepo/GooglePlayGames/Editor/m2repository/com/google/games/gpgs-plugin-support/0.10.14/gpgs-plugin-support-0.10.14.pom</file>
+    <file>Assets/GeneratedLocalRepo/GoogleSignIn/Editor/m2repository/com/google/signin/google-signin-support/1.0.4/google-signin-support-1.0.4.aar</file>
+    <file>Assets/GeneratedLocalRepo/GoogleSignIn/Editor/m2repository/com/google/signin/google-signin-support/1.0.4/google-signin-support-1.0.4.pom</file>
+  </files>
+  <settings>
+    <setting name="androidAbis" value="arm64-v8a,armeabi-v7a" />
+    <setting name="bundleId" value="com.gemadong.projectq" />
+    <setting name="explodeAars" value="True" />
+    <setting name="gradleBuildEnabled" value="True" />
+    <setting name="gradlePropertiesTemplateEnabled" value="True" />
+    <setting name="gradleTemplateEnabled" value="True" />
+    <setting name="installAndroidPackages" value="True" />
+    <setting name="localMavenRepoDir" value="Assets/GeneratedLocalRepo" />
+    <setting name="packageDir" value="Assets/Plugins/Android" />
+    <setting name="patchAndroidManifest" value="True" />
+    <setting name="patchMainTemplateGradle" value="True" />
+    <setting name="projectExportEnabled" value="False" />
+    <setting name="useJetifier" value="True" />
+  </settings>
+</dependencies>
